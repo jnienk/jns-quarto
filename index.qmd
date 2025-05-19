@@ -1,0 +1,30 @@
+---
+title: "J Nienkemper-Swanepoel"
+comments: false
+image: JNS.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:nienkemperj@sun.ac.za
+    - icon: github
+      href: https://github.com/jnienk
+    - text: scholar
+      href: https://scholar.google.com/citations?user=H0stmMMAAAAJ&hl=en
+    - text: orcid
+      href: https://orcid.org/0000-0001-6086-8272
+    - icon: linkedin
+      href: https://www.linkedin.com/in/dianne-cook-a4877a104/  
+    - text: MuViSU
+      href: https://www.linkedin.com/in/johane-nienkemperswanepoel/
+    - text: Stellenbosch University
+      href: https://www.sun.ac.za/english/faculty/economy/MuViSU
+---
+
+::: {#hero-heading}
+
+Johané Nienkemper-Swanepoel is a senior lecturer at [Department of Statistics and Actuarial Science at Stellenbosch University](https://www.sun.ac.za/english/faculty/economy/MuViSU) in South Africa.
+
+:::

@@ -1,0 +1,39 @@
+---
+title: "Education"
+---
+
+## Degrees
+
+| year  | degree | institution |
+|:------|:------|:------|
+| 2019   | Ph.D (Mathematical Statistics) | Stellenbosch University, Stellenbosch, South Africa, SA |
+| 2013   | MSc (Mathematical Statistics) |University of the Freestate, Bloemfontein, South Africa, SA |
+| 2011   | Bsc (hons) (Mathematical Statistics) | University of the Freestate, Bloemfontein, South Africa, SA |
+| 2010   | BSc (Mathematical Statistics) | University of the Freestate, Bloemfontein, South Africa, SA |
+| 2007   | Matric: Senior certificate | C & N Oranje Meisieskool, Bloemfontein, South Africa, SA |
+
+## Positions
+
+| year  | position | institution |
+|:------|:------|:------|
+|Jan 2025 - current |Senior Lecturer| Department of Statistics and Actuarial Science | Stellenbosch University|
+|Dec 2020 - Dec 2024 | Lecturer| Department of Statistics and Actuarial Science | Stellenbosch University|
+|July 2015 - Nov 2020 | Lecturer| Department of Genetics| Stellenbosch University|
+|July 2013 - June 2015 | Junior Lecturer| Department of Genetics| Stellenbosch University|
+|Jan 2012 - June 2012 | Research Assistant | Department of Mathematical Statistics and Actuarial Science| University of the Freestate|
+
+
+## Awards
+
+- Helga and Wolfgang Gaul Stiftung Award (2017). This award is given biannually to a young researcher ($<$ 30 years) with high potential working in the area of Classification, Clustering and related topics. The award is presented by the International Federation of Classification Societies (IFCS).
+- Crouch Joy Varney-Blackburn award for the best oral presentation in occupational therapy, psychiatry and mental health at the OTASA Congress 2024. Title: The impact of early referral on milestone development of babies with Down Syndrome at the Bloemfontein Child Information Centre. Authors: Dorothy Russell, Olive Khaliq & Johané Nienkemper-Swanepoel.
+- First prize in the postgraduate oral presentation competition of SASA in 2019. Title: Extended applications of GPAbin biplots.
+- First prize in the postgraduate paper competition of SASA in 2017 and 2014. Title: Exploratory study for the visualisation of incomplete multivariate categorical data (2017). Title: Multiple imputation using regularised iterative multiple correspondence analysis (2014).
+- Recipient of the Dean’s medal for the best honours degree student in the faculty of Natural and Agricultural sciences in 2012 at the University of the Free State.
+- Recipient of the Senate medal for the best honours degree student at the University of the Free State in 2012.
+
+## Visits
+
+| dates | institution |
+|:------|:------|
+| 19 - 29 May 2025 | Monash University |

@@ -1,0 +1,61 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+**NOTE: Add arxiv profile [arxiv](https://arxiv.org/).**
+
+```{r}
+#| echo: false
+#| message: false
+#| eval: false
+# this section is run manually to obtain
+# publication list 
+# orcid exported bibtex in wrong format
+#library(RefManageR)
+#b <- ReadBib("citations-gc.bib")
+#b
+library(rorcid)
+library(dplyr)
+b <- works("0000-0001-6086-8272")
+pubs <- tibble(title = b$title.title.value, 
+               year = b$`publication-date.year.value`,
+               journal = b$`journal-title.value`,
+               doi = b$url.value) |>
+  arrange(desc(year))
+save(pubs, file="pubs.rda")
+```
+
+```{r}
+#| echo: false
+#| message: false
+#library(knitr)
+#library(kableExtra)
+library(dplyr)
+library(glue)
+library(gt)
+library(stringr)
+load("pubs.rda")
+pubs <- pubs |>
+  #mutate(title = str_to_title(title)) |> # doesn't quite work nicely
+  mutate(titlelink = glue("[{title}]({doi})"))
+#kable(pubs)
+pubs |> 
+  select(titlelink, year, journal) |>
+  gt() |>
+  gt::fmt_markdown(columns = titlelink) |>
+  cols_label(titlelink = "title") |> 
+  gt::cols_width(titlelink ~ px(500),
+                 year ~ px(50),
+                 journal ~ px(200)) |>
+  cols_align("left")
+  
+```
+
+::: {style="font-size: 60%"}
+*This list is automatically populated from orcid.org*
+:::
+
+## Refereed conference proceedings
+

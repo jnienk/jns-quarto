@@ -1,0 +1,24 @@
+---
+title: "My first blog post"
+author: "JNS"
+date: '2025-05-19'
+slug: my-first-blog-post
+categories:
+  - R
+  - Climate studies
+tags:
+  - R
+  - Climate studies
+---
+
+## Motivation
+
+Investigating weather patterns through GOPA.
+
+## About the data example
+
+ERA5 data.
+
+## Next
+
+Stay tuned for some new blog posts.
