@@ -16,15 +16,21 @@ about:
     - text: orcid
       href: https://orcid.org/0000-0001-6086-8272
     - icon: linkedin
-      href: https://www.linkedin.com/in/dianne-cook-a4877a104/  
-    - text: MuViSU
       href: https://www.linkedin.com/in/johane-nienkemperswanepoel/
+    - text: MuViSU
+      href: https://www.sun.ac.za/muvisu
     - text: Stellenbosch University
-      href: https://www.sun.ac.za/english/faculty/economy/MuViSU
+      href: https://statistics-and-actuarial-science.sun.ac.za/academic-team/
+    - text: NRF Y2 rating
+      href: https://www.nrf.ac.za/rating/
 ---
 
 ::: {#hero-heading}
 
-Johané Nienkemper-Swanepoel is a senior lecturer at [Department of Statistics and Actuarial Science at Stellenbosch University](https://www.sun.ac.za/english/faculty/economy/MuViSU) in South Africa.
+Johané Nienkemper-Swanepoel is a Senior Lecturer at [Department of Statistics and Actuarial Science at Stellenbosch University](https://statistics-and-actuarial-science.sun.ac.za/academic-team/) in South Africa.
+
+I started my academic career at the University of the Free State (Bloemfontein) where I obtained my BSc, BSc(hons) and MSc in Mathematical Statistics with distinction. I started teaching at Stellenbosch University (SU) in 2013 and obtained my PhD in Mathematical Statistics at Stellenbosch University in 2019, which focused on the amalgamation of missing data approaches and biplot visualisation. 
+
+I am a founding member of the Centre for [Multi-Dimensional Data Visualisation (MuViSU)](https://www.sun.ac.za/muvisu) within the Department of Statistics at SU. I was a fellow of the [Pathways to a Successful Academic Career Programme (PSACP)](https://www.up.ac.za/nga-mass/article/2956876/fellows-psacp-2021) in 2021. I am currently serving on the executive committee of the Multivariate Data Analysis Group (MDAG) of the South African Statistical Association (SASA) and on the council of the International Federation of Classification Societies (IFCS).
 
 :::

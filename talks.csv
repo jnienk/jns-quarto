@@ -1,3 +1,15 @@
-date, title, location, link, details
-7/7/2025,GOPA for climate studies,Kruger National park,https://github.com/jnienk,Invited talk
-1/7/2025,GOPA methodology,Potchefstroom,https://github.com/jnienk,Invited talk
+Date,Title,Event,Location,Details,Author,link
+Aug-24,The impact of (un)congenial multiple imputation approaches on GPAbin biplots,COMPSTAT 2023,hybrid,Invited talk,presenting,
+Aug-23,Sensitivity analysis of the choice of multiple imputation approach on categorical GPAbin biplots,COMPSTAT 2022,hybrid,Contributed talk,presenting,
+Jul-22,Embedded word MCA biplots for sentiment visualisation: Application to COVID-19 related Tweet,IFCS 2022,Portugal,Invited talk,co-author,
+Jul-21,Correspondence analysis related biplot visualisations to aid analyses of categorical data containing missing values,ISI-WSC 2021,online,Invited talk,presenting,
+Jul-21,GPAbin for principal component analysis biplots of multiple imputed data,DSSV-ECDA 2021,online,Interactive talk,presenting,
+Aug-19,A simulation study for the identification of missing data mechanisms using visualisations,IFCS 2019,Greece,Invited talk,presenting,
+Jun-19,GPAbin for data visualization in the presence of missing observations,CoDaWork 2019,Spain,Contributed talk,co-author,
+Feb-19,To impute or not to impute categorical data: applications of multiple correspondence analysis,CARME 2019,South Africa,Contributed talk,presenting,
+Jul-18,Visualising incomplete data with subset multiple correspondence analysis,ECDA 2018,Germany,Contributed talk,presenting,
+Aug-17,Challenges in visualising and imputing missing categorical data,IFCS 2017,Japan,Contributed talk,presenting,
+Jul-17,The virtues and pitfalls of the visualisation of missing categorical data,DSSV 2017,Portugal,Contributed talk,presenting,
+Aug-16,Visualisations of multiple imputations using generalised orthogonal Procrustes analysis,COMPSTAT 2016,Spain,Contributed talk,presenting,
+Jul-15,Regularised Iterative Multiple Correspondence Analysis in Multiple Imputation,ISI-WSC 2015,Brazil,Contributed talk,presenting,
+Jul-15,Biplot based visualisations to explore relationships between pneumonia and nasopharyngeal pathogens,IFCS 2015,Italy,Contributed talk,presenting,

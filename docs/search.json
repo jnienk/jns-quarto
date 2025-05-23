@@ -4,7 +4,7 @@
     "href": "talks.html",
     "title": "Talks and seminars",
     "section": "",
-    "text": "date\ntitle\nlocation\ndetails\n\n\n\n\n2025-07-07\nGOPA for climate studies\nKruger National park\nInvited talk\n\n\n2025-07-01\nGOPA methodology\nPotchefstroom\nInvited talk"
+    "text": "Date\ntitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\nAug-24\nThe impact of (un)congenial multiple imputation approaches on GPAbin biplots\nCOMPSTAT 2023\nhybrid\nInvited talk\npresenting\n\n\nAug-23\nSensitivity analysis of the choice of multiple imputation approach on categorical GPAbin biplots\nCOMPSTAT 2022\nhybrid\nContributed talk\npresenting\n\n\nJul-22\nEmbedded word MCA biplots for sentiment visualisation: Application to COVID-19 related Tweet\nIFCS 2022\nPortugal\nInvited talk\nco-author\n\n\nJul-21\nCorrespondence analysis related biplot visualisations to aid analyses of categorical data containing missing values\nISI-WSC 2021\nonline\nInvited talk\npresenting\n\n\nJul-21\nGPAbin for principal component analysis biplots of multiple imputed data\nDSSV-ECDA 2021\nonline\nInteractive talk\npresenting\n\n\nAug-19\nA simulation study for the identification of missing data mechanisms using visualisations\nIFCS 2019\nGreece\nInvited talk\npresenting\n\n\nJun-19\nGPAbin for data visualization in the presence of missing observations\nCoDaWork 2019\nSpain\nContributed talk\nco-author\n\n\nFeb-19\nTo impute or not to impute categorical data: applications of multiple correspondence analysis\nCARME 2019\nSouth Africa\nContributed talk\npresenting\n\n\nJul-18\nVisualising incomplete data with subset multiple correspondence analysis\nECDA 2018\nGermany\nContributed talk\npresenting\n\n\nAug-17\nChallenges in visualising and imputing missing categorical data\nIFCS 2017\nJapan\nContributed talk\npresenting\n\n\nJul-17\nThe virtues and pitfalls of the visualisation of missing categorical data\nDSSV 2017\nPortugal\nContributed talk\npresenting\n\n\nAug-16\nVisualisations of multiple imputations using generalised orthogonal Procrustes analysis\nCOMPSTAT 2016\nSpain\nContributed talk\npresenting\n\n\nJul-15\nRegularised Iterative Multiple Correspondence Analysis in Multiple Imputation\nISI-WSC 2015\nBrazil\nContributed talk\npresenting\n\n\nJul-15\nBiplot based visualisations to explore relationships between pneumonia and nasopharyngeal pathogens\nIFCS 2015\nItaly\nContributed talk\npresenting"
   },
   {
     "objectID": "posts/2025-05-19-my-first-blog-post/index.html",
@@ -67,7 +67,7 @@
     "href": "education.html#visits",
     "title": "Education",
     "section": "Visits",
-    "text": "Visits\n\n\n\ndates\ninstitution\n\n\n\n\n19 - 29 May 2025\nMonash University"
+    "text": "Visits\n\n\n\nDates\nInstitution\nCountry\n\n\n\n\n19 - 29 May 2025\nMonash University\nAustralia"
   },
   {
     "objectID": "blog.html",
@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "J Nienkemper-Swanepoel",
     "section": "",
-    "text": "Johané Nienkemper-Swanepoel is a senior lecturer at Department of Statistics and Actuarial Science at Stellenbosch University in South Africa."
+    "text": "Johané Nienkemper-Swanepoel is a Senior Lecturer at Department of Statistics and Actuarial Science at Stellenbosch University in South Africa.\nI started my academic career at the University of the Free State (Bloemfontein) where I obtained my BSc, BSc(hons) and MSc in Mathematical Statistics with distinction. I started teaching at Stellenbosch University (SU) in 2013 and obtained my PhD in Mathematical Statistics at Stellenbosch University in 2019, which focused on the amalgamation of missing data approaches and biplot visualisation.\nI am a founding member of the Centre for Multi-Dimensional Data Visualisation (MuViSU) within the Department of Statistics at SU. I was a fellow of the Pathways to a Successful Academic Career Programme (PSACP) in 2021. I am currently serving on the executive committee of the Multivariate Data Analysis Group (MDAG) of the South African Statistical Association (SASA) and on the council of the International Federation of Classification Societies (IFCS)."
   },
   {
     "objectID": "publications.html",
