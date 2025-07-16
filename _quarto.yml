@@ -19,8 +19,8 @@ website:
         href: talks.qmd  
       - text: Publications
         href: publications.qmd  
-      - text: Blog
-        href: blog.qmd
+      - text: Software
+        href: software.qmd
     right:
       - icon: github
         href: https://github.com/jnienk/jns-quarto      

@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/jnienk/jns-quarto/talks.html</loc>
-    <lastmod>2025-05-23T04:27:45.910Z</lastmod>
+    <lastmod>2025-07-16T09:08:30.666Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jnienk/jns-quarto/posts/2025-05-19-my-first-blog-post/index.html</loc>
-    <lastmod>2025-05-19T00:30:18.655Z</lastmod>
+    <loc>https://github.com/jnienk/jns-quarto/publications.html</loc>
+    <lastmod>2025-07-16T09:47:19.748Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jnienk/jns-quarto/education.html</loc>
-    <lastmod>2025-05-23T03:28:48.242Z</lastmod>
+    <loc>https://github.com/jnienk/jns-quarto/index.html</loc>
+    <lastmod>2025-07-16T09:48:07.075Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/jnienk/jns-quarto/blog.html</loc>
     <lastmod>2025-05-18T23:47:28.608Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jnienk/jns-quarto/index.html</loc>
-    <lastmod>2025-05-23T03:33:23.716Z</lastmod>
+    <loc>https://github.com/jnienk/jns-quarto/education.html</loc>
+    <lastmod>2025-05-23T03:28:48.242Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jnienk/jns-quarto/publications.html</loc>
-    <lastmod>2025-05-19T02:04:02.956Z</lastmod>
+    <loc>https://github.com/jnienk/jns-quarto/posts/2025-05-19-my-first-blog-post/index.html</loc>
+    <lastmod>2025-05-19T00:30:18.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/jnienk/jns-quarto/software.html</loc>
+    <lastmod>2025-07-16T09:45:21.552Z</lastmod>
   </url>
 </urlset>

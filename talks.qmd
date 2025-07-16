@@ -1,6 +1,8 @@
 ---
-title: "Talks and seminars"
+title: "Presentations"
 ---
+
+## International conferences
 
 ```{r}
 #| echo: false
@@ -10,8 +12,9 @@ library(dplyr)
 library(gt)
 library(glue)
 library(lubridate)
-talks <- read_csv("talks.csv")
+talks <- read_csv("talksInt.csv")
 talks <- talks |>
+  mutate(Date = dmy(Date)) |>
   mutate(titlelink = ifelse(is.na(link), Title, glue("[{title}]({link})"))) 
 talks |>
   select(Date, titlelink, Event, Location, Details, Author) |>
@@ -28,3 +31,60 @@ talks |>
   cols_align("left")
 ```
 
+
+## Seminars, workshops and talks
+
+```{r}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+talksSem <- read_csv("seminars.csv")
+talksSem <- talksSem |>
+  mutate(Date = dmy(Date)) |>
+  mutate(titlelink = ifelse(is.na(link), Title, glue("[{title}]({link})"))) 
+talksSem |>
+  select(Date, titlelink, Event, Location, Details) |>
+  gt() |>
+    gt::fmt_markdown(columns = titlelink) |>
+    cols_label(titlelink = "title") |> 
+    gt::cols_width(
+      Date ~ px(100),
+      titlelink ~ px(400),
+      Event ~ px(100),
+      Location ~ px(250),
+      Details ~ px(100))  |>
+  cols_align("left")
+```
+
+## South African conferences
+
+```{r}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+talksSA <- read_csv("talksSA.csv")
+talksSA <- talksSA |>
+  mutate(Date = dmy(Date)) |>
+  mutate(titlelink = ifelse(is.na(link), Title, glue("[{title}]({link})"))) 
+talksSA |>
+  select(Date, titlelink, Event, Location, Details, Author) |>
+  gt() |>
+    gt::fmt_markdown(columns = titlelink) |>
+    cols_label(titlelink = "title") |> 
+    gt::cols_width(
+      Date ~ px(100),
+      titlelink ~ px(400),
+      Event ~ px(100),
+      Location ~ px(250),
+      Details ~ px(100),
+      Author ~ px(100))  |>
+  cols_align("left")
+```

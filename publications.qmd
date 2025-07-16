@@ -4,8 +4,6 @@ title: "Publications"
 
 ## Journal articles
 
-**NOTE: Add arxiv profile [arxiv](https://arxiv.org/).**
-
 ```{r}
 #| echo: false
 #| message: false
@@ -51,11 +49,11 @@ pubs |>
                  journal ~ px(200)) |>
   cols_align("left")
   
+#NOTE: Add arxiv profile [arxiv](https://arxiv.org/).
 ```
 
 ::: {style="font-size: 60%"}
 *This list is automatically populated from orcid.org*
 :::
 
-## Refereed conference proceedings
 
