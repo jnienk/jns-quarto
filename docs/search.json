@@ -60,21 +60,21 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "year\ndegree\ninstitution\n\n\n\n\n2019\nPh.D (Mathematical Statistics)\nStellenbosch University, Stellenbosch, South Africa, SA\n\n\n2013\nMSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2011\nBsc (hons) (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2010\nBSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2007\nMatric: Senior certificate\nC & N Oranje Meisieskool, Bloemfontein, South Africa, SA"
+    "text": "Year\nDegree\nInstitution\n\n\n\n\n2019\nPh.D (Mathematical Statistics)\nStellenbosch University, Stellenbosch, South Africa, SA\n\n\n2013\nMSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2011\nBsc (hons) (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2010\nBSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2007\nMatric: Senior certificate\nC & N Oranje Meisieskool, Bloemfontein, South Africa, SA"
   },
   {
     "objectID": "education.html#degrees",
     "href": "education.html#degrees",
     "title": "Education",
     "section": "",
-    "text": "year\ndegree\ninstitution\n\n\n\n\n2019\nPh.D (Mathematical Statistics)\nStellenbosch University, Stellenbosch, South Africa, SA\n\n\n2013\nMSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2011\nBsc (hons) (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2010\nBSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2007\nMatric: Senior certificate\nC & N Oranje Meisieskool, Bloemfontein, South Africa, SA"
+    "text": "Year\nDegree\nInstitution\n\n\n\n\n2019\nPh.D (Mathematical Statistics)\nStellenbosch University, Stellenbosch, South Africa, SA\n\n\n2013\nMSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2011\nBsc (hons) (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2010\nBSc (Mathematical Statistics)\nUniversity of the Freestate, Bloemfontein, South Africa, SA\n\n\n2007\nMatric: Senior certificate\nC & N Oranje Meisieskool, Bloemfontein, South Africa, SA"
   },
   {
     "objectID": "education.html#positions",
     "href": "education.html#positions",
     "title": "Education",
     "section": "Positions",
-    "text": "Positions\n\n\n\n\n\n\n\n\nyear\nposition\ninstitution\n\n\n\n\nJan 2025 - current\nSenior Lecturer\nDepartment of Statistics and Actuarial Science\n\n\nDec 2020 - Dec 2024\nLecturer\nDepartment of Statistics and Actuarial Science\n\n\nJuly 2015 - Nov 2020\nLecturer\nDepartment of Genetics\n\n\nJuly 2013 - June 2015\nJunior Lecturer\nDepartment of Genetics\n\n\nJan 2012 - June 2012\nResearch Assistant\nDepartment of Mathematical Statistics and Actuarial Science"
+    "text": "Positions\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\nJan 2025 - current\nSenior Lecturer\nDepartment of Statistics and Actuarial Science\n\n\nDec 2020 - Dec 2024\nLecturer\nDepartment of Statistics and Actuarial Science\n\n\nJuly 2015 - Nov 2020\nLecturer\nDepartment of Genetics\n\n\nJuly 2013 - June 2015\nJunior Lecturer\nDepartment of Genetics\n\n\nJan 2012 - June 2012\nResearch Assistant\nDepartment of Mathematical Statistics and Actuarial Science"
   },
   {
     "objectID": "education.html#awards",
@@ -88,7 +88,7 @@
     "href": "education.html#visits",
     "title": "Education",
     "section": "Visits",
-    "text": "Visits\n\n\n\nDates\nInstitution\nCountry\n\n\n\n\n19 - 29 May 2025\nMonash University\nAustralia"
+    "text": "Visits\n\n\n\nDates\nInstitution\nCountry\nHost\n\n\n\n\n19 - 29 May 2025\nMonash University\nAustralia\nProf. Di Cook"
   },
   {
     "objectID": "posts/2025-05-19-my-first-blog-post/index.html",
@@ -123,14 +123,14 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "Warning: package 'flextable' was built under R version 4.5.1\n\n\nWarning: package 'magick' was built under R version 4.5.1\n\n\npackagelast_updatereleasedversiontitledownloadsGPAbin16/07/202514/06/20251.1.0Unifying Multiple Biplot Visualisations into a Single Display251moveEZ05/07/202505/07/20251.0.3Animated Biplots135biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots9,449\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+    "text": "packagelast_updatereleasedversiontitledownloadsGPAbin16/07/202514/06/20251.1.0Unifying Multiple Biplot Visualisations into a Single Display251moveEZ05/07/202505/07/20251.0.3Animated Biplots135biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots9,449\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
   },
   {
     "objectID": "software.html#r-packages",
     "href": "software.html#r-packages",
     "title": "Software",
     "section": "",
-    "text": "Warning: package 'flextable' was built under R version 4.5.1\n\n\nWarning: package 'magick' was built under R version 4.5.1\n\n\npackagelast_updatereleasedversiontitledownloadsGPAbin16/07/202514/06/20251.1.0Unifying Multiple Biplot Visualisations into a Single Display251moveEZ05/07/202505/07/20251.0.3Animated Biplots135biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots9,449\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+    "text": "packagelast_updatereleasedversiontitledownloadsGPAbin16/07/202514/06/20251.1.0Unifying Multiple Biplot Visualisations into a Single Display251moveEZ05/07/202505/07/20251.0.3Animated Biplots135biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots9,449\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
   },
   {
     "objectID": "software.html#shiny-applications",

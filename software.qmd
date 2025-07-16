@@ -79,8 +79,10 @@ library(readr)
 library(dplyr)
 library(glue)
 library(stringr)
-library(flextable)
-library(magick)
+suppressWarnings(suppressPackageStartupMessages({
+  library(flextable)
+  library(magick)
+}))
 hex <- read_csv("hex.csv") |>
   select(package, hexlink) |>
   rename(hex = hexlink)

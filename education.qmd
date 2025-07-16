@@ -4,7 +4,7 @@ title: "Education"
 
 ## Degrees
 
-| year | degree | institution |
+| Year | Degree | Institution |
 |:-----------------------|:-----------------------|:-----------------------|
 | 2019 | Ph.D (Mathematical Statistics) | Stellenbosch University, Stellenbosch, South Africa, SA |
 | 2013 | MSc (Mathematical Statistics) | University of the Freestate, Bloemfontein, South Africa, SA |
@@ -14,7 +14,7 @@ title: "Education"
 
 ## Positions
 
-| year | position | institution |
+| Year | Position | Institution |
 |:-----------------------|:-----------------------|:-----------------------|
 | Jan 2025 - current | Senior Lecturer | Department of Statistics and Actuarial Science |
 | Dec 2020 - Dec 2024 | Lecturer | Department of Statistics and Actuarial Science |
@@ -33,6 +33,6 @@ title: "Education"
 
 ## Visits
 
-| Dates            | Institution       | Country   |
-|:-----------------|:------------------|:----------|
-| 19 - 29 May 2025 | Monash University | Australia |
+| Dates            | Institution       | Country   | Host |
+|:-----------------|:------------------|:----------|:----------|
+| 19 - 29 May 2025 | Monash University | Australia |Prof. Di Cook |
