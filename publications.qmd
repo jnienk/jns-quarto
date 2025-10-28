@@ -17,11 +17,11 @@ title: "Publications"
 library(rorcid)
 library(dplyr)
 b <- works("0000-0001-6086-8272")
-pubs <- tibble(title = b$title.title.value, 
-               year = b$`publication-date.year.value`,
-               journal = b$`journal-title.value`,
+pubs <- tibble(Title = b$title.title.value, 
+               Year = b$`publication-date.year.value`,
+               Journal = b$`journal-title.value`,
                doi = b$url.value) |>
-  arrange(desc(year))
+  arrange(desc(Year))
 save(pubs, file="pubs.rda")
 ```
 
@@ -37,16 +37,16 @@ library(stringr)
 load("pubs.rda")
 pubs <- pubs |>
   #mutate(title = str_to_title(title)) |> # doesn't quite work nicely
-  mutate(titlelink = glue("[{title}]({doi})"))
+  mutate(titlelink = glue("[{Title}]({doi})"))
 #kable(pubs)
 pubs |> 
-  select(titlelink, year, journal) |>
+  select(titlelink, Year, Journal) |>
   gt() |>
   gt::fmt_markdown(columns = titlelink) |>
-  cols_label(titlelink = "title") |> 
+  cols_label(titlelink = "Title") |> 
   gt::cols_width(titlelink ~ px(500),
-                 year ~ px(50),
-                 journal ~ px(200)) |>
+                 Year ~ px(50),
+                 Journal ~ px(200)) |>
   cols_align("left")
   
 #NOTE: Add arxiv profile [arxiv](https://arxiv.org/).

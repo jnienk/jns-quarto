@@ -13,7 +13,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Education
+      - text: Career and Awards
         href: education.qmd
       - text: Talks
         href: talks.qmd  

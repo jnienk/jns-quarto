@@ -1,19 +1,21 @@
-Date,Title,Event,Location,Details,link
-25/11/2025,Beyond multivariate applications: Quarto for reproducible interactive documents,MDAG-SASA,South Africa,Workshop,
-22/05/2025,GPAbin biplots to investigate differences between multiple imputation techniques available in R,NUMBAT Monash,Australia,Seminar,
-08/04/2025,"Two Perspectives, One Vision",StatSNetSA,Online,Webinar,
-18/11/2024,User-friendly biplots in R with biplotEZ,MDAG-SASA,South Africa,Workshop,
-19/07/2024,Multiple correspondence analysis biplot applications: missing data and text analysis,CoE-MaSS,Online,Webinar,
-23/11/2023,The impact of early referral on milestone development of babies with Down Syndrome at the Bloemfontein Child Information Centre,Annual Provincial Health Research Day,Online,Webinar,
-02/08/2023,User-friendly biplots in R with biplotEZ,StatCon,South Africa,Workshop,
-19/07/2023,Postgraduate Research Opportunities in Statistics: Multivariate Data Visualisation,NGA-MaSS,Online,Webinar,
-14/10/2022,GPAbin: unifying visualisations of multiple imputations for missing values,Stellenbosch University: Statistics Department,South Africa,Research discussion,
-14/10/2022,Comments on early career collaborations,PSACP,Online,Webinar,
-05/05/2022,Data lost but not forgotten,Stellenbosch University: SUMS,South Africa,Seminar,
-29/11/2021,Aspects of multidimensional visualisations,MDAG-SASA,Online,Workshop,
-14/05/2020,Multiple correspondence analysis applications for missing data visualisation,CoE-MaSS,Online,Webinar,
-14/02/2020,Visualisations for multivariate missing data,Stellenbosch University: Statistics Department,South Africa,Seminar,
-26/11/2019,Categorical data: Visualisation and missing values,MDAG-SASA,South Africa,Workshop,
-07/05/2019,A missing data journey with multiple correspondence analysis applications,University of the Western Cape,South Africa,Seminar,
-28/08/2017,STATS: what you need to know!,Stellenbosch University: Genetics Department,South Africa,Seminar,
-16/09/2016,Visualisations of multiple imputations using generalised orthogonal Procrustes analysis,Stellenbosch University: Statistics Department,South Africa,Seminar,
+Date,Title,Location,Link,Details,Event
+25/11/2025,Beyond multivariate applications: Quarto for reproducible interactive documents,South Africa,,Workshop,MDAG-SASA
+27/10/2025,Dynamic biplot visualisations with moveEZ,South Africa,https://jnienk.github.io/NITheCS_seminar_Oct2025/,Colloquium,NITheCS Colloquium
+13/10/2025,My journey (so far) with R package development,South Africa,https://jnienk.github.io/UCT_seminar_Oct2025/,Seminar,University of Cape Town seminar series
+22/05/2025,GPAbin biplots to investigate differences between multiple imputation techniques available in R,Australia,,Seminar,NUMBAT Monash
+08/04/2025,"Two Perspectives, One Vision",Online,,Webinar,StatSNetSA
+18/11/2024,User-friendly biplots in R with biplotEZ,South Africa,,Workshop,MDAG-SASA
+19/07/2024,Multiple correspondence analysis biplot applications: missing data and text analysis,Online,,Webinar,CoE-MaSS
+23/11/2023,The impact of early referral on milestone development of babies with Down Syndrome at the Bloemfontein Child Information Centre,Online,,Webinar,Annual Provincial Health Research Day
+02/08/2023,User-friendly biplots in R with biplotEZ,South Africa,,Workshop,StatCon
+19/07/2023,Postgraduate Research Opportunities in Statistics: Multivariate Data Visualisation,Online,,Webinar,NGA-MaSS
+14/10/2022,GPAbin: unifying visualisations of multiple imputations for missing values,South Africa,,Research discussion,Stellenbosch University: Statistics Department
+14/10/2022,Comments on early career collaborations,Online,,Webinar,PSACP
+05/05/2022,Data lost but not forgotten,South Africa,,Seminar,Stellenbosch University: SUMS
+29/11/2021,Aspects of multidimensional visualisations,Online,,Workshop,MDAG-SASA
+14/05/2020,Multiple correspondence analysis applications for missing data visualisation,Online,,Webinar,CoE-MaSS
+14/02/2020,Visualisations for multivariate missing data,South Africa,,Seminar,Stellenbosch University: Statistics Department
+26/11/2019,Categorical data: Visualisation and missing values,South Africa,,Workshop,MDAG-SASA
+07/05/2019,A missing data journey with multiple correspondence analysis applications,South Africa,,Seminar,University of the Western Cape
+28/08/2017,STATS: what you need to know!,South Africa,,Seminar,Stellenbosch University: Genetics Department
+16/09/2016,Visualisations of multiple imputations using generalised orthogonal Procrustes analysis,South Africa,,Seminar,Stellenbosch University: Statistics Department

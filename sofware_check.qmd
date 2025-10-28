@@ -1,5 +1,5 @@
 ---
-title: "Software"
+title: "Software publications check"
 ---
 
 ## R packages
@@ -58,6 +58,18 @@ pkg_data <- pkg_data |>
 save(pkg_data, file = "software.rda")
 ```
 
+```{r}
+#| message: false
+#| eval: false
+#| echo: false
+# Download package hex stickers
+# But avoid this because not all are in correct aspect ratio
+#library(readr)
+#library(glue)
+#hex <- read_csv("hex.csv")
+#download.file(hex$hexlink, 
+#  destfile = glue("hex_images/{hex$package}.png"))
+```
 
 ```{r}
 #| echo: false
@@ -100,12 +112,12 @@ pkg_tbl <- compose(
   x = pkg_tbl,
   j = "package",
   value = as_paragraph(hyperlink_text(x=package, url=url, 
-     props = officer::fp_text(color = "#dcaa5f")))) |>
+     props = officer::fp_text(color = "#a96469")))) |>
   delete_columns(j = "url") 
 
 pkg_tbl <- colformat_image(x = pkg_tbl,
                            i=1:nrow(pkg_data),
-                           j = "hex", width = 1, height = 1.2, 
+                           j = "hex", width = 1, height = 1.156, 
                            na_str = "") 
 pkg_tbl 
 ```
@@ -115,8 +127,3 @@ pkg_tbl
 *This page is automatically populated using `pkgsearch` with R with all time downloads.*
 
 :::
-
-## Shiny applications
-
-- [Subset Multiple Correspondence Analysis](https://jnienk.shinyapps.io/sMCAbiplots/)
-- [Embedded word Multiple Correspondence Analysis](https://muvisu.shinyapps.io/EmbeddedWordMCAbiplot/)
