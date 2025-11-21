@@ -1,26 +1,26 @@
 /*-- scss:defaults --*/
-$bs-blue: #5a3e79 !default;
-$bs-pagination-active-bg: $bs-blue !default;
-$bs-primary: $bs-blue !default;
-$bs-btn-hover-bg: $bs-blue !default;
+$bs-yl: #dbad37 !default;
+$bs-pagination-active-bg: $bs-yl !default;
+$bs-primary: $bs-yl !default;
+$bs-btn-hover-bg: $bs-yl !default;
 $fa-font-path: '../webfonts';
 
 /*-- scss:rules --*/
 
 .navbar {
-  background-color: $bs-blue;
-  color: #A76286;
+  background-color: $bs-yl;
+  color: #dbad37;
 }
 
 .quarto-title-banner{
-  background-color: #fca7a5 ;
-  color: #A76286;
+  background-color: #dbad37 ;
+  color: #dbad37;
 }
 
 .btn-primary {
     color: #fff;
-    background-color: $bs-blue;
-    border-color: $bs-blue;
+    background-color: $bs-yl;
+    border-color: $bs-yl;
 }
 
 
@@ -28,41 +28,41 @@ $fa-font-path: '../webfonts';
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: $bs-blue;
-    border-color: $bs-blue;
+    background-color: $bs-yl;
+    border-color: $bs-yl;
 }
 
 .quarto-title-banner {
     margin-bottom: 1em;
     color: rgba(255,255,255,.7);
-    background: $bs-blue;
+    background: $bs-yl;
 }
 
 
 .page-link {
-      color: $bs-blue;
+      color: $bs-yl;
 }
 
 
 .page-link:hover {
     z-index: 2;
     color: #fff;
-    background-color: $bs-blue;
-    border-color: $bs-blue;
+    background-color: $bs-yl;
+    border-color: $bs-yl;
 }
 
 a {
-  color: #C21E56;
+  color: #dbad37;
   text-decoration: none;
 }
 
 b, strong {
-    color: $bs-blue;
+    color: $bs-yl;
     font-weight: bolder;
 }
 
 div.quarto-post .listing-categories .listing-category {
-    color: $bs-blue;
+    color: $bs-yl;
     border: solid 1px var(--bs-gray-400);
     font-size: .8em;
 }
@@ -73,5 +73,5 @@ p pre code:not(.sourceCode), li pre code:not(.sourceCode), pre code:not(.sourceC
 }
 
 code {
-  color: #A76286;
+  color: #dbad37;
 }

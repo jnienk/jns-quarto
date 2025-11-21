@@ -1,7 +1,7 @@
 ---
 title: "J Nienkemper-Swanepoel"
 comments: false
-image: JNS.jpg
+image: JNS_1.jpg
 about:
   template: trestles
   image-width: 15em

@@ -28,53 +28,32 @@
     "text": "Local conferences\n\n\n\n\n\n\n\n\nDate\nTitle\nEvent\nLocation\nDetails\nAuthor\n\n\n\n\n2024-11-22\nMapping linguistic beauty: biplot analysis of 228 world language patterns\nSASA 2024\nStellenbosch\nContributed talk\nco-author\n\n\n2024-11-21\nGPAbin biplots for continuous data: a methodology for combining biplots of completed continuous data sets\nSASA 2024\nStellenbosch\nContributed talk\nco-author\n\n\n2024-11-20\nThe past, present and future of visualising sentiments\nSASA 2024\nStellenbosch\nContributed talk\nco-author\n\n\n2024-07-04\nThe impact of early referral on milestone development of babies with Down Syndrome at the Bloemfontein Child Information Centre\nOTASA 2024\nOnline\nContributed talk\nco-author\n\n\n2023-12-01\nGPAbin MCA biplots to recover categorical response patterns after multiple imputation\nSASA 2023\nDurban\nContributed talk\npresenting\n\n\n2023-12-01\nExtending GPAbin biplots for continuous data: A methodology for biplot visualisations for continuous completed data sets\nSASA 2023\nDurban\nContributed talk\nco-author\n\n\n2023-12-01\nBiplotEZ R package for EZier biplots\nSASA 2023\nDurban\nContributed talk\nco-author\n\n\n2023-11-30\nEmbedded word MCA biplots for sentiment and topic visualisation\nSASA 2023\nDurban\nContributed talk\nco-author\n\n\n2022-11-30\nExploring sentiment contained in COVID-19 related Tweets with embedded word MCA biplots\nSASA 2022\nGeorge\nContributed talk\nco-author\n\n\n2021-12-01\nExtending GPAbin to visualise missing multivariate continuous data\nSASA 2021\nStellenbosch\nContributed talk\npresenting\n\n\n2019-11-27\nExtended applications of GPAbin biplots\nSASA 2019\nGqeberha\nContributed talk\npresenting\n\n\n2018-11-27\nVisualisations for identifying missing data mechanisms\nSASA 2018\nJohannesburg\nContributed talk\npresenting\n\n\n2017-11-30\nCompeting approaches to the visualisation of incomplete categorical data sets\nSASA 2017\nBloemfontein\nContributed talk\npresenting\n\n\n2016-12-01\nMultidimensional graphical comparisons of imputation methods for missing values in categorical data sets\nSASA 2016\nCape Town\nContributed talk\npresenting\n\n\n2015-12-02\nGeneralised Orthogonal Procrustes Analysis for the comparison of Multiple imputed data sets\nSASA 2015\nPretoria\nContributed talk\npresenting\n\n\n2014-10-30\nRegularised Iterative Multiple Correspondence Analysis in Multiple Imputation\nSASA 2014\nMakhanda\nContributed talk\npresenting\n\n\n2013-11-07\nRegularised Iterative Multiple Correspondence Analysis in Multiple Imputation\nSASA 2013\nPolokwane\nContributed talk\npresenting\n\n\n2011-11-01\nThe ranking of preferable positions for an A Cappella group considering feasible factors\nSASA 2011\nPretoria\nContributed talk\npresenting"
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Warning: package 'flextable' was built under R version 4.5.1\n\n\nWarning: package 'magick' was built under R version 4.5.1\n\n\npackagelast_updatereleasedversiontitledownloadshexGPAbin02/10/202514/06/20251.1.1Unifying Multiple Biplot Visualisations into a Single Display1,138moveEZ08/09/202505/07/20251.1.1Animated Biplots1,273biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots11,663\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+    "text": "Title\nYear\nJournal\n\n\n\n\nThe impact of early referral on milestone development of babies with Down Syndrome at the Bloemfontein Child Information Centre, South Africa\n2025\nSouth African Journal of Occupational Therapy\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   },
   {
-    "objectID": "software.html#r-packages",
-    "href": "software.html#r-packages",
-    "title": "Software",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
     "section": "",
-    "text": "Warning: package 'flextable' was built under R version 4.5.1\n\n\nWarning: package 'magick' was built under R version 4.5.1\n\n\npackagelast_updatereleasedversiontitledownloadshexGPAbin02/10/202514/06/20251.1.1Unifying Multiple Biplot Visualisations into a Single Display1,138moveEZ08/09/202505/07/20251.1.1Animated Biplots1,273biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots11,663\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+    "text": "Title\nYear\nJournal\n\n\n\n\nThe impact of early referral on milestone development of babies with Down Syndrome at the Bloemfontein Child Information Centre, South Africa\n2025\nSouth African Journal of Occupational Therapy\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
   },
   {
-    "objectID": "software.html#shiny-applications",
-    "href": "software.html#shiny-applications",
-    "title": "Software",
-    "section": "Shiny applications",
-    "text": "Shiny applications\n\nSubset Multiple Correspondence Analysis\nEmbedded word Multiple Correspondence Analysis"
-  },
-  {
-    "objectID": "posts/2025-05-19-my-first-blog-post/index.html",
-    "href": "posts/2025-05-19-my-first-blog-post/index.html",
-    "title": "My first blog post",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "J Nienkemper-Swanepoel",
     "section": "",
-    "text": "Investigating weather patterns through GOPA."
+    "text": "Johané Nienkemper-Swanepoel is a Senior Lecturer at Department of Statistics and Actuarial Science at Stellenbosch University in South Africa.\nI started my academic career at the University of the Free State (Bloemfontein) where I obtained my BSc, BSc(hons) and MSc in Mathematical Statistics with distinction. I started teaching at Stellenbosch University (SU) in 2013 and obtained my PhD in Mathematical Statistics at Stellenbosch University in 2019, which focused on the amalgamation of missing data approaches and biplot visualisation.\nI am a founding member of the Centre for Multi-Dimensional Data Visualisation (MuViSU) within the Department of Statistics at SU. I was a fellow of the Pathways to a Successful Academic Career Programme (PSACP) in 2021. I am currently serving on the executive committee of the Multivariate Data Analysis Group (MDAG) of the South African Statistical Association (SASA) and on the council of the International Federation of Classification Societies (IFCS)."
   },
   {
-    "objectID": "posts/2025-05-19-my-first-blog-post/index.html#motivation",
-    "href": "posts/2025-05-19-my-first-blog-post/index.html#motivation",
-    "title": "My first blog post",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Johané Nienkemper-Swanepoel",
     "section": "",
-    "text": "Investigating weather patterns through GOPA."
-  },
-  {
-    "objectID": "posts/2025-05-19-my-first-blog-post/index.html#about-the-data-example",
-    "href": "posts/2025-05-19-my-first-blog-post/index.html#about-the-data-example",
-    "title": "My first blog post",
-    "section": "About the data example",
-    "text": "About the data example\nERA5 data."
-  },
-  {
-    "objectID": "posts/2025-05-19-my-first-blog-post/index.html#next",
-    "href": "posts/2025-05-19-my-first-blog-post/index.html#next",
-    "title": "My first blog post",
-    "section": "Next",
-    "text": "Next\nStay tuned for some new blog posts."
+    "text": "My first blog post\n\n\n\nR\n\nClimate studies\n\n\n\n\n\n\n\n\n\n19 May 2025\n\n\nJNS\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "education.html",
@@ -112,45 +91,52 @@
     "text": "Visits\n\n\n\nDates\nInstitution\nCountry\nHost\n\n\n\n\n19 - 29 May 2025\nMonash University\nAustralia\nProf. Di Cook"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Johané Nienkemper-Swanepoel",
+    "objectID": "posts/2025-05-19-my-first-blog-post/index.html",
+    "href": "posts/2025-05-19-my-first-blog-post/index.html",
+    "title": "My first blog post",
     "section": "",
-    "text": "My first blog post\n\n\n\n\n\n\nR\n\n\nClimate studies\n\n\n\n\n\n\n\n\n\n19 May 2025\n\n\nJNS\n\n\n\n\n\n\nNo matching items"
+    "text": "Investigating weather patterns through GOPA."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "J Nienkemper-Swanepoel",
+    "objectID": "posts/2025-05-19-my-first-blog-post/index.html#motivation",
+    "href": "posts/2025-05-19-my-first-blog-post/index.html#motivation",
+    "title": "My first blog post",
     "section": "",
-    "text": "Johané Nienkemper-Swanepoel is a Senior Lecturer at Department of Statistics and Actuarial Science at Stellenbosch University in South Africa.\nI started my academic career at the University of the Free State (Bloemfontein) where I obtained my BSc, BSc(hons) and MSc in Mathematical Statistics with distinction. I started teaching at Stellenbosch University (SU) in 2013 and obtained my PhD in Mathematical Statistics at Stellenbosch University in 2019, which focused on the amalgamation of missing data approaches and biplot visualisation.\nI am a founding member of the Centre for Multi-Dimensional Data Visualisation (MuViSU) within the Department of Statistics at SU. I was a fellow of the Pathways to a Successful Academic Career Programme (PSACP) in 2021. I am currently serving on the executive committee of the Multivariate Data Analysis Group (MDAG) of the South African Statistical Association (SASA) and on the council of the International Federation of Classification Societies (IFCS)."
+    "text": "Investigating weather patterns through GOPA."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Title\nYear\nJournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+    "objectID": "posts/2025-05-19-my-first-blog-post/index.html#about-the-data-example",
+    "href": "posts/2025-05-19-my-first-blog-post/index.html#about-the-data-example",
+    "title": "My first blog post",
+    "section": "About the data example",
+    "text": "About the data example\nERA5 data."
   },
   {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "",
-    "text": "Title\nYear\nJournal\n\n\n\n\nBiplot visualisations of the differences between multiple imputation techniques for simulated categorical data\n2025\nDiscover Data\n\n\nOn subset multiple correspondence analysis for incomplete multivariate categorical data\n2024\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2023\nCommunications in Statistics - Simulation and Computation\n\n\nComments: Development of an early career academic supervisor in Statistics - a discussion on a guiding rubric\n2022\nORION\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics - Simulation and Computation\n\n\nGPAbin: unifying visualizations of multiple imputations for missing values\n2021\nCommunications in Statistics: Simulation and Computation\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nData Analysis and Rationality in a Complex World. IFCS 2019. Studies in Classification, Data Analysis, and Knowledge Organization\n\n\nA Simulation Study for the Identification of Missing Data Mechanisms Using Visualisation\n2021\nStudies in Classification, Data Analysis, and Knowledge Organization\n\n\nVisualising Incomplete Data with Subset Multiple Correspondence Analysis\n2018\nArchives of Data Science, Series A (Online First)\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\nInvestigating the Performance of a Variation of Multiple Correspondence Analysis for Multiple Imputation in Categorical Data Sets\n2017\nJournal of Classification\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+    "objectID": "posts/2025-05-19-my-first-blog-post/index.html#next",
+    "href": "posts/2025-05-19-my-first-blog-post/index.html#next",
+    "title": "My first blog post",
+    "section": "Next",
+    "text": "Next\nStay tuned for some new blog posts."
   },
   {
-    "objectID": "sofware_check.html",
-    "href": "sofware_check.html",
-    "title": "Software publications check",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
     "section": "",
-    "text": "Warning: package 'flextable' was built under R version 4.5.1\n\n\nWarning: package 'magick' was built under R version 4.5.1\n\n\npackagelast_updatereleasedversiontitledownloadshexGPAbin02/10/202514/06/20251.1.1Unifying Multiple Biplot Visualisations into a Single Display1,138moveEZ08/09/202505/07/20251.1.1Animated Biplots1,273biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots11,663\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+    "text": "packagelast_updatereleasedversiontitledownloadshexGPAbin02/10/202514/06/20251.1.1Unifying Multiple Biplot Visualisations into a Single Display1,274moveEZ08/09/202505/07/20251.1.1Animated Biplots1,548biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots12,133\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
   },
   {
-    "objectID": "sofware_check.html#r-packages",
-    "href": "sofware_check.html#r-packages",
-    "title": "Software publications check",
+    "objectID": "software.html#r-packages",
+    "href": "software.html#r-packages",
+    "title": "Software",
     "section": "",
-    "text": "Warning: package 'flextable' was built under R version 4.5.1\n\n\nWarning: package 'magick' was built under R version 4.5.1\n\n\npackagelast_updatereleasedversiontitledownloadshexGPAbin02/10/202514/06/20251.1.1Unifying Multiple Biplot Visualisations into a Single Display1,138moveEZ08/09/202505/07/20251.1.1Animated Biplots1,273biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots11,663\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+    "text": "packagelast_updatereleasedversiontitledownloadshexGPAbin02/10/202514/06/20251.1.1Unifying Multiple Biplot Visualisations into a Single Display1,274moveEZ08/09/202505/07/20251.1.1Animated Biplots1,548biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots12,133\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+  },
+  {
+    "objectID": "software.html#shiny-applications",
+    "href": "software.html#shiny-applications",
+    "title": "Software",
+    "section": "Shiny applications",
+    "text": "Shiny applications\n\nSubset Multiple Correspondence Analysis\nEmbedded word Multiple Correspondence Analysis"
   }
 ]
