@@ -12,6 +12,7 @@ library(tidyverse)
 library(tsibble)
 library(lubridate)
 library(pkgsearch)
+#remotes::install_github("robjhyndman/pkgmeta")
 library(pkgmeta)
 
 # Functions for getting downloads
