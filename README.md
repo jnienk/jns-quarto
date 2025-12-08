@@ -1,2 +1,2 @@
 # JNS website
-The website was updated on 21 November 2025.
+The website was updated on 2 December 2025.
