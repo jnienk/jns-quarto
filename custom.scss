@@ -1,5 +1,5 @@
 /*-- scss:defaults --*/
-$bs-yl: #dbad37 !default;
+$bs-yl: #5A2A4A !default;
 $bs-pagination-active-bg: $bs-yl !default;
 $bs-primary: $bs-yl !default;
 $bs-btn-hover-bg: $bs-yl !default;
@@ -9,16 +9,16 @@ $fa-font-path: '../webfonts';
 
 .navbar {
   background-color: $bs-yl;
-  color: #dbad37;
+  color: #5A2A4A;
 }
 
 .quarto-title-banner{
-  background-color: #dbad37 ;
-  color: #dbad37;
+  background-color: #C08497 ;
+  color: #C08497;
 }
 
 .btn-primary {
-    color: #fff;
+    color: #F5F3F4;
     background-color: $bs-yl;
     border-color: $bs-yl;
 }
@@ -27,7 +27,7 @@ $fa-font-path: '../webfonts';
 
 .page-item.active .page-link {
     z-index: 3;
-    color: #fff;
+    color: #F5F3F4;
     background-color: $bs-yl;
     border-color: $bs-yl;
 }
@@ -40,19 +40,19 @@ $fa-font-path: '../webfonts';
 
 
 .page-link {
-      color: $bs-yl;
+      color: #C08497;
 }
 
 
 .page-link:hover {
     z-index: 2;
-    color: #fff;
+    color: #F5F3F4;
     background-color: $bs-yl;
     border-color: $bs-yl;
 }
 
 a {
-  color: #dbad37;
+  color: #5A2A4A;
   text-decoration: none;
 }
 
@@ -69,9 +69,9 @@ div.quarto-post .listing-categories .listing-category {
 
 
 p pre code:not(.sourceCode), li pre code:not(.sourceCode), pre code:not(.sourceCode) {
-  background-color: #f0efff;
+  background-color: #F5F3F4;
 }
 
 code {
-  color: #dbad37;
+  color: #C08497;
 }
