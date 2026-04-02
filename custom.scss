@@ -38,7 +38,6 @@ $fa-font-path: '../webfonts';
     background: $bs-yl;
 }
 
-
 .page-link {
       color: #C08497;
 }
@@ -52,9 +51,16 @@ $fa-font-path: '../webfonts';
 }
 
 a {
-  color: #5A2A4A;
+  color: #C08497;
   text-decoration: none;
 }
+
+
+a:hover {
+  color: #C08497;
+  text-decoration: underline;
+}
+
 
 b, strong {
     color: $bs-yl;
