@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Journal articles
 
-```{r}
+```{r, warning = FALSE}
 #| echo: false
 #| message: false
 #| eval: false

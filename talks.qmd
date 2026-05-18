@@ -4,7 +4,7 @@ title: "Presentations"
 
 ## International conferences
 
-```{r}
+```{r, warning = FALSE}
 #| echo: false
 #| message: false
 library(readr)
@@ -33,7 +33,7 @@ talks |>
 
 ## Seminars and workshops
 
-```{r}
+```{r, warning = FALSE}
 #| echo: false
 #| message: false
 library(readr)
@@ -62,7 +62,7 @@ talks |>
 
 ## Local conferences
 
-```{r}
+```{r, warning = FALSE}
 #| echo: false
 #| message: false
 library(readr)
